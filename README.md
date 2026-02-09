@@ -46,4 +46,6 @@ Network Security (VLAN isolation, SSH Hardening)
 Threat Hunting (Log analysis, Syscheck)
 Technical Reporting (Incident timeline, remediation)
 
+[Wazuh Dashboard](./img/Dashboard.png).
+
 Contact: konekassoum0790@gmail.com |www.linkedin.com/in/kassoum-kone-836255271
