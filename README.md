@@ -37,7 +37,7 @@ MITRE ATT&CK Mapping: Every incident report follows the MITRE framework for prof
 
 📂 Project Documentation
 The complete methodology, attack scenarios (ARP Poisoning, SSH Brute Force), and remediation steps are detailed in the official report:
-👉 **[Download Full Incident Report (PDF)](./docs/Wazuh_rapport.pdf)**
+👉 **[Download Full Incident Report (PDF)](./doc/Wazuh_rapport.pdf)**
 
 
 🚀 Skills Demonstrated
